@@ -1,5 +1,3 @@
-//Never was so much owed by so many to so few
-
 public Class Spiderman {
   private Power _power;
   private Responsiblity _resposiblity; 
