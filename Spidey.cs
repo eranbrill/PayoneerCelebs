@@ -5,9 +5,10 @@ public Class Spiderman {
   private Responsiblity _resposiblity; 
 
   public  Spiderman (Power power, ResposnibilityFactory resposibilityFactory) {
-    this._power= power;
+    this._power = power;
     if  ("Great" == Power.Level) {
-      this._resposibility= resposibilityFactory.Great();
+        this._resposibility= resposibilityFactory.Great();
+      }
   }
   
   // Spidy is already coding for us
