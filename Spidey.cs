@@ -10,7 +10,7 @@ public Class Spiderman {
   }
   
   // Spidy is already coding for us
-  // Click the link bellow if you want to join a great team and do great stuff together (not sure about saving the world)
+  // Click the link bellow if you want to join a great team and do great stuff together (we are not yet sure about saving the world tasks)
   
 }
  
